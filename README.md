@@ -11,7 +11,3 @@ This project demonstrates a **gesture-controlled car** that operates using **ESP
 ✅ **Motor control via L298N driver**  
 ✅ **Low latency & efficient response**  
 
-## License  
-This project is licensed under the **MIT License** – feel free to modify and enhance it!
-
-### **Happy Coding, Happy Driving! 🚀**
